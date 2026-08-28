@@ -18,3 +18,7 @@ Proyecto de Microsoft Access para el registro y consolidación de información d
 ## Desarrollo
 
 Los formularios principales incluyen Configuración, Tablas A, E, F, H, I y J, acumulación de datos y control de usuarios por nivel.
+
+## Desarrollado por: © RCLLM
+Whatsapp: 904430989
+
